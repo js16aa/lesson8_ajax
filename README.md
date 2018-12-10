@@ -4,21 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(12 10, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(John Soto)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment required me to create a application that displayed information about movies. I had to use jQuery and Ajax methods to access this information from a third-party movie database.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://js16aa.github.io/lesson8_ajax/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+1. ( How to use Ajax methods.)
+2. ( I learned how to parse JSON data from an HTTP response message.)
+3. ( How to build an application using API.)
+4. ( How to obtain a API.)
+5. ( I learned about the real life applications of JSON and AJAX.)
